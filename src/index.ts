@@ -1,0 +1,1 @@
+let hello : string = 'hello TypeScript' //string 为类型注解
